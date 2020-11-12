@@ -1,0 +1,2 @@
+CompanyName,CompanyNumber,PostCode,Active,Sector
+Synertec,01823652360,TA21 9JQ,True,Private
